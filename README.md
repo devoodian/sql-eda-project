@@ -4,7 +4,7 @@ This project demonstrates a step-by-step Exploratory Data Analysis (EDA) on a Da
 
 🔍 Want to see the SQL Data Warehouse project this EDA is based on? Check it out here: [sql-dwh-project](https://github.com/devoodian/sql-dwh-project)
 
-To see the next step with advanced analytics and business reports, check out the SQL Data Analytics project: [sql-data-analytics-project](https://github.com/devoodian/sql-data-analytics-project)
+➔ Next step with advanced analytics and business reports: [sql-data-analytics-project](https://github.com/devoodian/sql-data-analytics-project)
 
 ## 1. Database Exploration
 
